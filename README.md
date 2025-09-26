@@ -40,9 +40,10 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashvendra-rajpoot-017a39225/)  
+🔗 www.linkedin.com/in/ashvendra-rajpoot-7937b0262
+🔗 https://leetcode.com/u/Ashvendra_Rajpoot/
 📧 Email: ashvendrarajpoot32@gmail.com 
-🌍 Portfolio: [Portfolio Link](https://github.com/ashvendra-rajpoot/portfolio)  
+
 
 ---
 
