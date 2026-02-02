@@ -28,7 +28,7 @@
 
 ## 🏆 Achievements & Certifications
 - ✅ Coursera: Machine Learning by Stanford University (Andrew Ng)  
-- ✅ [LeetCode Profile](https://leetcode.com/ashvendra_rajpoot/) – 150+ problems solved  
+- ✅ [LeetCode Profile](https://leetcode.com/ashvendra_rajpoot/) – 40+ problems solved  
 - ✅ Actively learning and contributing to open-source  
 
 ---
