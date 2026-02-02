@@ -26,12 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Ashvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvendra-rajpoot&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashvendra-rajpoot&layout=compact&theme=tokyonight)  
-
----
-
 ## 🏆 Achievements & Certifications
 - ✅ Coursera: Machine Learning by Stanford University (Andrew Ng)  
 - ✅ [LeetCode Profile](https://leetcode.com/ashvendra_rajpoot/) – 150+ problems solved  
